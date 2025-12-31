@@ -1,4 +1,4 @@
-# 🚀 Azure 클라우드 모험: 기초부터 실전까지!
+# Azure Basic Workshop
 
 Azure Basic Workshop은 애저 인프라 코어 서비스들을 직접 Hands on Lab 할 수 있는 컨텐츠입니다.
 
